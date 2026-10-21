@@ -63,4 +63,4 @@ It won't come out identical to mine on the first try. You'll get a working first
 
 ## Want the rest of Pulsar?
 
-My full Pulsar does more: Claude Code live in the notch (permissions, questions, sessions), a volume dial with a mixer for each app, the island with music and live lyrics, Stow, Rowline and the Dark and White Matte themes. Those parts are sold as a ready app on Gumroad: Pulsar Agent, Pulsar Mixer and Pulsar Complete. [juliendesigncraft.gumroad.com](https://juliendesigncraft.gumroad.com)
+My full Pulsar does more: Claude Code live in the notch (permissions, questions, sessions), a volume dial with a mixer for each app, the island with music and live lyrics, Stow, Rowline and the Dark and White Matte themes. Those parts will be sold as a ready app: Pulsar Agent, Pulsar Mixer and Pulsar Complete. Coming soon on [juliendesigncraft.gumroad.com](https://juliendesigncraft.gumroad.com).

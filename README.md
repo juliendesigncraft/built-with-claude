@@ -35,12 +35,10 @@ You need [Claude Code](https://claude.com/claude-code). The Mac apps need a Mac.
 
 ## The complete versions
 
-Some of my tools are also sold ready to use, already built and tested:
+Some of my tools are also sold ready to use, already built and tested. Their code is not in this repo.
 
-- **Spazio**, the exact system I use every day, with the skills that keep it up to date.
-- **Pulsar Agent**, **Pulsar Mixer** and **Pulsar Complete**: Claude Code live in the notch, the volume dial with a mixer for each app, and everything else.
-
-They're on Gumroad: [juliendesigncraft.gumroad.com](https://juliendesigncraft.gumroad.com). Their code is not in this repo.
+- **Spazio**, the exact system I use every day, with the skills that keep it up to date. On Gumroad: [juliendesigncraft.gumroad.com](https://juliendesigncraft.gumroad.com).
+- **Pulsar Agent**, **Pulsar Mixer** and **Pulsar Complete**: Claude Code live in the notch, the volume dial with a mixer for each app, and everything else. Coming soon, on the same page.
 
 ## License
 
