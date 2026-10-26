@@ -34,7 +34,7 @@ You need [Claude Code](https://claude.com/claude-code). The Mac apps need a Mac.
 Some of my tools are also sold ready to use, already built and tested. Their code is not in this repo.
 
 - **Spazio**, the exact system I use every day, with the skills that keep it up to date. On Gumroad: [juliendesigncraft.gumroad.com](https://juliendesigncraft.gumroad.com).
-- **Pulsar Agent**, **Pulsar Mixer** and **Pulsar Complete**: Claude Code live in the notch, the volume dial with a mixer for each app, and everything else. Coming soon, on the same page.
+- **Pulsar**: the full source is free in [juliendesigncraft/pulsar](https://github.com/juliendesigncraft/pulsar). The signed app is on [Gumroad](https://juliendesigncraft.gumroad.com/l/pulsar-lite): Lite is free, Agent, Mixer and Complete are paid.
 
 ## License
 
