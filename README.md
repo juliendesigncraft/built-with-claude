@@ -1,6 +1,6 @@
 # Built with Claude
 
-Every tool from my reels, in one place. I'm Julien Design Craft (@juliendesigncraft): I design, and Claude writes the code with me.
+Prompts from my reels. **Pulsar (the notch, Rowline, Stow, the launchers) now lives in one repo: [juliendesigncraft/pulsar](https://github.com/juliendesigncraft/pulsar).** I'm Julien Design Craft (@juliendesigncraft): I design, and Claude writes the code with me.
 
 Nothing here is a finished app you download. It's what you need to build your own with Claude Code: the prompts I used, the reference images, and the guides Claude follows. You end up with the code, on your computer, and you can change anything.
 
@@ -10,17 +10,13 @@ Nothing here is a finished app you download. It's what you need to build your ow
 | --- | --- |
 | [`prompts/`](prompts) | The prompts from my reels, each with its reference images. The version you saw in the reel. |
 | [`spazio-starter/`](spazio-starter) | Build your own Spazio, the dashboard I open every morning, phase by phase. |
-| [`pulsar-lite/`](pulsar-lite) | Build the free part of Pulsar, my menu bar app: a clean menu bar, your desktop in a menu, a sound for every key. |
 
 ### The prompts
 
 | Prompt | What you build |
 | --- | --- |
 | [Spazio](prompts/spazio) | Your own assistant with Claude: steps, a log, one rule. Plus my design rules as a skill. |
-| [The notch](prompts/notch) | Music with live lyrics, weather, messages and Claude Code in your MacBook's notch. |
 | [Launchpad](prompts/launchpad) | Launchpad back on your Mac. |
-| [Rowline](prompts/rowline) | Every Mac window in one row that scrolls. |
-| [Stow](prompts/stow) | Drop a file on the notch and it changes form. And a tidy Desktop with your own rules. |
 
 ## How to use it with Claude Code
 
