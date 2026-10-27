@@ -10,6 +10,7 @@ Nothing here is a finished app you download. It's what you need to build your ow
 | --- | --- |
 | [`prompts/`](prompts) | The prompts from my reels, each with its reference images. The version you saw in the reel. |
 | [`spazio-starter/`](spazio-starter) | Build your own Spazio, the dashboard I open every morning, phase by phase. |
+| [`leggio/`](leggio) | Build your own Leggio, the app I study with: one reader for PDF, Word and Markdown, highlights, notes and what you've read. |
 
 ### The prompts
 
@@ -34,6 +35,7 @@ You need [Claude Code](https://claude.com/claude-code). The Mac apps need a Mac.
 Some of my tools are also sold ready to use, already built and tested. Their code is not in this repo.
 
 - **Spazio**, the exact system I use every day, with the skills that keep it up to date. On Gumroad: [juliendesigncraft.gumroad.com](https://juliendesigncraft.gumroad.com).
+- **Leggio**, the study app from my reel, with covers, a desk with widgets, the video beside the page and the Dark Matte look inside Spazio. Coming soon on [Gumroad](https://juliendesigncraft.gumroad.com).
 - **Pulsar**: the full source is free in [juliendesigncraft/pulsar](https://github.com/juliendesigncraft/pulsar). The signed app is on [Gumroad](https://juliendesigncraft.gumroad.com/l/pulsar-lite): Lite is free, Agent, Mixer and Complete are paid.
 
 ## License
